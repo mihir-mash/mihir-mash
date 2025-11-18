@@ -1,4 +1,4 @@
-<h2 align="center">Helllo ! My name is Mihir Mashruwala</h2>
+<h2 align="center">Hello ! My name is Mihir Mashruwala</h2>
 
 ###
 
