@@ -91,10 +91,3 @@ Dedicated and result-oriented Computer Science student with strong technical and
 
 ###
 
-<h2 align="left">Contact</h2>
-
-<p align="left">
-📧 <a href="mailto:mihirmashruwala@gmail.com">mihirmashruwala@gmail.com</a><br/>
-LinkedIn: <a href="https://linkedin.com/in/mihir-mashruwala">linkedin.com/in/mihir-mashruwala</a><br/>
-GitHub: <a href="https://github.com/mihir-mash">github.com/mihir-mash</a>
-</p>
